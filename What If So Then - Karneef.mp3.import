@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://hnwdri6x7rsq"
+path="res://.godot/imported/What If So Then - Karneef.mp3-9ce5c66faa96a700a8f0986d7401807f.mp3str"
+
+[deps]
+
+source_file="res://What If So Then - Karneef.mp3"
+dest_files=["res://.godot/imported/What If So Then - Karneef.mp3-9ce5c66faa96a700a8f0986d7401807f.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
