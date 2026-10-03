@@ -6,3 +6,5 @@ Controls: Space to jump, d to move right, a to move left and e to interact
 
 
 IN VERY EARLY DEVELOPMENT!
+
+Play from the releases tab
